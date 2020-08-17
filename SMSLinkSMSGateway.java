@@ -22,15 +22,15 @@ import org.json.JSONObject;
 /**
 
     See Main.java for Usage Examples
-    
+
 */
 
 public class SMSLinkSMSGateway {
     
     /**
 
-      HTTPS JSON API Endpoint:  https://secure.smslink.ro/sms/gateway/communicate/index.php
-      HTTP JSON API Endpoint:   http://www.smslink.ro/sms/gateway/communicate/index.php
+      HTTPS JSON API Endpoint:  https://secure.smslink.ro/sms/gateway/communicate/json.php
+      HTTP JSON API Endpoint:   http://www.smslink.ro/sms/gateway/communicate/json.php
 
     */
 
