@@ -19,6 +19,12 @@ import java.util.Set;
 */
 import org.json.JSONObject;                 
   
+/**
+
+    See Main.java for Usage Examples
+    
+*/
+
 public class SMSLinkSMSGateway {
     
     /**
