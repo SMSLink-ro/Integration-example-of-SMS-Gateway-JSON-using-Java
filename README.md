@@ -1,4 +1,4 @@
-# Integration example of SMS Gateway (HTTP) using PHP
+# Integration example of SMS Gateway (HTTP) using Java
 
 This is an integration example for sending SMS using [SMSLink.ro](https://www.smslink.ro) API, called [SMS Gateway](https://www.smslink.ro/sms-gateway.html). 
 SMSLink.ro allows you to send SMS to all mobile networks in Romania and also to more than 168 countries and more than 1000 mobile operators worldwide. 
